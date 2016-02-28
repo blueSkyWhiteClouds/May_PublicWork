@@ -31,7 +31,7 @@ public class MyUIControlActivity extends Activity implements OnClickListener {
 	}
 
 	/**
-	 * 创建UI界面，实现功能
+	 * 创建UI界面，实现功能,TTTTTTTTTTTTTTTTTTTTTTTT
 	 */
 	private void createUI() {
 		// 创建最外面的LinearLayout布局
